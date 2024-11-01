@@ -1,0 +1,19 @@
+{
+    "name": "pionia/collections",
+    "description": "Helpers to interact with collections of data",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pionia\\Collections\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jet2018",
+            "email": "ezrajet9@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
