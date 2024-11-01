@@ -1,5 +1,11 @@
 # Pionia Collections
 
+[![Build Status](https://travis-ci.com/pionia/collections.svg?branch=main)](https://travis-ci.com/pionia/collections)
+[![codecov](https://codecov.io/gh/pionia/collections/branch/main/graph/badge.svg?token=3ZQZQZQZQZ)](https://codecov.io/gh/pionia/collections)
+[![Latest Stable Version](https://poser.pugx.org/pionia/collections/v)](//packagist.org/packages/pionia/collections)
+[![Total Downloads](https://poser.pugx.org/pionia/collections/downloads)](//packagist.org/packages/pionia/collections)
+[![License](https://poser.pugx.org/pionia/collections/license)](//packagist.org/packages/pionia/collections)
+
 This package provides a portal to interact with arrays in a more dynamic and advanced way. PHP has the performance, this package adds the math.
 
 **This package is also in its early stages of development and is not yet available on packagist.**
@@ -52,6 +58,7 @@ There are around Five Variations of collections it provides:
 ## Installation
 
 Coming soon!
+
 [//]: # (```bash)
 
 [//]: # (composer require pionia/collections)
